@@ -1,0 +1,37 @@
+SIGLA
+
+GRAMMATICI ANTIQVI
+
+Antim. = Antimachus Colophonius
+Apoll. Dysc. = Apollonius Dyscolus
+Apoll. lex. = Apollonii Sophistae lexicon
+Apoll. Rhod. = Apollonius Rhodius
+Ar. = Aristarchus Samothrax
+Aristoph. = Aristophanes Byzantius
+Dem. Ixion = Demetrius Ixion
+Did. = Didymus Chalcenterus
+Dion. Scyt. = Dionysius Scytobrachion
+Dion. Sid. = Dionysius Sidonius
+Dion. Thr. = Dionysius Thrax
+Eust. = Eustathius
+Hdn. = Herodianus Alexandrinus
+Nic. = Nicanor Alexandrinus
+Ptol. Asc. = Ptolemaeus Ascalonites
+Ptol. Pind. = Ptolemaeus Pindarion, Oroandae f.
+Rhi. = Rhianus Cretensis
+Steph. Byz. = Stephanus Byzantius
+Zen. = Zenodotus Ephesius
+
+EDITIONES ANTIQVAE
+
+Argoi. = ed. Argiva (ἡ Ἀργολική)
+Chia = ed. Chia (ἡ Χία)
+Cret. = ed. Cretensis (ἡ Κρητική)
+Cypr. = ed. Cypria (ἡ Κυπρία)
+Mass. = ed. Massiliensis (ἡ Μιισσηλιωτικὴ)
+Sinop. = ed. Sinopensis (ἡ Σιῑνωπικὴ)
+
+XX
+
+32⁴¹ Mt
+
